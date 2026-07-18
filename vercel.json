@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/yemot-bot", "destination": "/api/bot.js" }
+  ]
+}
